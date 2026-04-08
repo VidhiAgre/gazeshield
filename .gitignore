@@ -1,0 +1,4 @@
+venv/ 
+GazeShield_Backend/venv/ 
+node_modules/ 
+__pycache__/ 
