@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge" alt="Version" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Browser-lightgrey?style=for-the-badge" alt="Platform" />
 </p>
 
@@ -27,7 +26,6 @@
 - [Algorithms Explained](#-algorithms-explained)
 - [Screenshots](#-screenshots)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -404,12 +402,6 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - **face-api.js** - Face detection/recognition in JavaScript
@@ -420,13 +412,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/GazeShield/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/GazeShield/discussions)
-- **Email**: support@gazeshield.app
-
----
 
 <p align="center">
   <strong>Built with ❤️ to protect your privacy</strong>
