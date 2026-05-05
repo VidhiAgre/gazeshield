@@ -352,37 +352,14 @@ Triggers:
 ## 📸 Screenshots
 
 ### Dashboard Overview
-```
-┌─────────────────────────────────────────────────────────┐
-│  GazeShield Dashboard                     [Start] [Stop] │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  Threat Level: 🟢 SAFE                                  │
-│  Session: 00:05:23    Owner: Present                   │
-│                                                         │
-│  ┌─────────────────┐  ┌──────────────────────────┐    │
-│  │                 │  │  Detected: Vidhi (95%)   │    │
-│  │  Camera Feed    │  │  Mode: Single User       │    │
-│  │                 │  │                          │    │
-│  └─────────────────┘  │  [Analytics] [Evidence]  │    │
-│                         │  [Teams] [Settings]      │    │
-│                         └──────────────────────────┘    │
-└─────────────────────────────────────────────────────────┘
-```
+
+<img width="1920" height="1080" alt="Screenshot 2026-04-16 204632" src="https://github.com/user-attachments/assets/5921f3a8-8284-450b-bbbf-513294e6307c" />
+
 
 ### Blur Overlay (Intrusion Detected)
-```
-┌─────────────────────────────────────────────────────────┐
-│  ⚠️ UNAUTHORIZED PERSON LOOKING AT YOUR SCREEN! ⚠️   │
-│                                                         │
-│         [ Blurred Content - Unreadable ]                │
-│                                                         │
-│  🔒 Security violation detected and logged              │
-│  📸 Evidence captured automatically                     │
-└─────────────────────────────────────────────────────────┘
-```
 
----
+<img width="1920" height="1080" alt="Screenshot 2026-04-16 204347" src="https://github.com/user-attachments/assets/3acf3ba8-c14a-44c8-adb8-84643f79170f" />
+
 
 ## 🤝 Contributing
 
